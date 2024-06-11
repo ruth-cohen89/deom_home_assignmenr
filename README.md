@@ -1,5 +1,3 @@
-## readme_builder_demo
-### Description
 This project serves as a demonstration of how to create an effective README.md file for software projects. Below is an example README.md file generated using markdown syntax for a project called TaskMananger for managing tasks.
 
 # TaskManager
